@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saarathi Saravanan
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in full stack development||Java developer
 - 🌱 I’m currently learning BSc(computer systems and design)
 📫 saarathisaravanans@gmail.com
 
